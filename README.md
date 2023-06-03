@@ -10,5 +10,5 @@
 
 # [CLICK TO BUTTON](https://www.wesofting.com/)
 
-[<h1 align="center">__CLICK TO BUTTON__</h1>](https://www.wesofting.com/)
+[<h1 align="center">[CLICK TO BUTTON](https://www.wesofting.com/)</h1>]
 
