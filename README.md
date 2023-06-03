@@ -32,6 +32,8 @@ __Virus Total - [Click](https://www.virustotal.com/gui/file/84fcddc464043a5bd27e
 
 __There are a lot, a lot of reviews and a good rating from TrustPilot, which is only getting better every day__
 
+<p align="center">
 ⭐⭐⭐⭐⭐
+</p>
 
 ![image](https://github.com/Eliaz7/We-Softing-All-Soft-For-You/assets/97999125/d7a62777-3563-4720-9573-757b0cd0df95)
