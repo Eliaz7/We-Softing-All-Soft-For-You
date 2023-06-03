@@ -12,3 +12,11 @@ __Click on the heart to go to the website [💜](https://www.wesofting.com/)__
 __P.S. Or use this link, but it's not interesting - https://www.wesofting.com/__
 
 ## What will you find there?
+
+__Our application contains more than 100 programs for download, as well as complete documentation and training for them. The most detailed tutorials that are regularly updated by our community!__
+
+__Do you want to learn Photoshop? Do it.__
+
+__Want to write cool bits in Fl Studio, but don't know where to start? We will teach you.__
+
+__Free apps and full training inside them will help you become who you want to be__
