@@ -26,4 +26,4 @@ __Free apps and full training inside them will help you become who you want to b
 
 __Our programs and all materials added to them are thoroughly checked. We value our reputation and our community. You can verify this for yourself by checking our application with any antivirus, or by going to the page below__
 
-Virus Total - [Click](https://www.virustotal.com/gui/file/84fcddc464043a5bd27e8cab1741af295e2098ebe4ebb71e9c8c36f9a90d83a6?nocache=1)
+__Virus Total - [Click](https://www.virustotal.com/gui/file/84fcddc464043a5bd27e8cab1741af295e2098ebe4ebb71e9c8c36f9a90d83a6?nocache=1)__
