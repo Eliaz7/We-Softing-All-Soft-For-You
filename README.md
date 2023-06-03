@@ -7,8 +7,8 @@
 
 ## Go to the website: 
 
-Click on the heart to go to the website [💜](https://www.wesofting.com/)
+__Click on the heart to go to the website [💜](https://www.wesofting.com/)__
 
-P.S. Or use this link, but it's not interesting - https://www.wesofting.com/
+__P.S. Or use this link, but it's not interesting - https://www.wesofting.com/__
 
 ## What will you find there?
