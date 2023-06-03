@@ -37,3 +37,7 @@ __There are a lot, a lot of reviews and a good rating from TrustPilot, which is 
 </p>
 
 ![image](https://github.com/Eliaz7/We-Softing-All-Soft-For-You/assets/97999125/d7a62777-3563-4720-9573-757b0cd0df95)
+
+## Gratitude!
+
+__We try and work continuously for you. We will be very grateful if you reciprocate, subscribe to our GitHub updates and rate this repository__ ❤️
