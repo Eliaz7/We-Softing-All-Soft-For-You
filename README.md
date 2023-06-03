@@ -27,3 +27,9 @@ __Free apps and full training inside them will help you become who you want to b
 __Our programs and all materials added to them are thoroughly checked. We value our reputation and our community. You can verify this for yourself by checking our application with any antivirus, or by going to the page below__
 
 __Virus Total - [Click](https://www.virustotal.com/gui/file/84fcddc464043a5bd27e8cab1741af295e2098ebe4ebb71e9c8c36f9a90d83a6?nocache=1)__
+
+## What do they say about us?
+
+__There are a lot, a lot of reviews and a good rating from TrustPilot, which is only getting better every day__ ⭐⭐⭐⭐⭐
+
+![image](https://github.com/Eliaz7/We-Softing-All-Soft-For-You/assets/97999125/d7a62777-3563-4720-9573-757b0cd0df95)
