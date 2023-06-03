@@ -7,8 +7,8 @@
 
 ## Go to the website 💜
 
-<p align="center">
+
 # [CLICK TO BUTTON](https://www.wesofting.com/)
-</p>
+
 
 
