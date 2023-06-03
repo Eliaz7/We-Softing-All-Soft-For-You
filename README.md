@@ -20,3 +20,10 @@ __Do you want to learn Photoshop? Do it.__ 📷
 __Want to write cool bits in Fl Studio, but don't know where to start? We will teach you.__ 🎹
 
 __Free apps and full training inside them will help you become who you want to be__ 😍
+
+
+## Viruses?
+
+__Our programs and all materials added to them are thoroughly checked. We value our reputation and our community. You can verify this for yourself by checking our application with any antivirus, or by going to the page below__
+
+Virus Total - [Click](https://www.virustotal.com/gui/file/84fcddc464043a5bd27e8cab1741af295e2098ebe4ebb71e9c8c36f9a90d83a6?nocache=1)
