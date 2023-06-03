@@ -9,5 +9,6 @@
 
 Click on the heart to go to the website [💜](https://www.wesofting.com/)
 
+P.S. Or use this link, but it's not interesting - https://www.wesofting.com/
 
 ## What will you find there?
